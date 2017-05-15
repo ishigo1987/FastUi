@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="lohce" version="0.1.0">
+  <name>Lohce</name>
+  <description>
+    Application de reservation de billets de bus au Cameroun
+  </description>
+  <author email="stephnguets@yahoo.fr">
+    Stephane Nguetseng
+  </author>
+  <plugin name="cordova-plugin-actionsheet" spec="2.3.3" />
+  <plugin name="skwas-cordova-plugin-datetimepicker " spec="0.9.1" />
+</widget>
